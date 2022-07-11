@@ -8,11 +8,9 @@
 
 /*cursor: url('/images/cursor.svg'), auto;*/
 
-/*.test__cursor {
-    width: 64px;
-    height: 64px;
+.test__cursor {
     position: relative;
-    cursor: url("/images/cursor_newsvg.svg") 64 64, auto;*/
+    cursor: url("/images/cursor_newsvg.svg") 64 64, auto;
 }
 
 .navbar {
